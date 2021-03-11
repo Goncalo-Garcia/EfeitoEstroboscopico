@@ -22,4 +22,5 @@ Modulo mosfet:
 - https://s.click.aliexpress.com/e/_98AjFq
 
 
-// Link do artigo https://bibliotecadigital.ipb.pt/bitstream/10198/21588/1/pauta-relatorio-9.pdf
+Artigo sobre como criar e calibrar uma luz espectroscopia de baixo custo:
+- https://bibliotecadigital.ipb.pt/bitstream/10198/21588/1/pauta-relatorio-9.pdf 
