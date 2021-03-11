@@ -1,7 +1,7 @@
 # EfeitoEstroboscopico
 Este código foi usado no video que fiz no meu canal onde o objetivo foi usar o efeito estroboscópico de forma a fazer recuar e parar as bolhas de ar criadas por uma bomba de ár para aquários. 
 
-![imagem](https://user-images.githubusercontent.com/74066999/110758263-3c8a0f80-8244-11eb-8930-5bc50a089f67.png)
+![Diagrama](https://user-images.githubusercontent.com/74066999/110759115-2c266480-8245-11eb-816b-4a3822f88632.png)
 
 
 Material usado para este projeto (links de afiliação):
