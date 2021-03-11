@@ -22,5 +22,6 @@ Modulo mosfet:
 - https://s.click.aliexpress.com/e/_98AjFq
 
 
-Artigo sobre como criar e calibrar uma luz espectroscopia de baixo custo:
+
+Artigo sobre como criar e calibrar uma luz espectroscopica de baixo custo:
 - https://bibliotecadigital.ipb.pt/bitstream/10198/21588/1/pauta-relatorio-9.pdf 
